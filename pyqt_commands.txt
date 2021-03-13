@@ -1,0 +1,2 @@
+pyuic5 -o azurlane_toolbox.py azurlaneToolbox.ui
+pyrcc5 -o test_rc.py test.qrc
